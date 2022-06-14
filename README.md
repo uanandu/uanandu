@@ -10,4 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 💻Languages Used:
-<a href="https://discord.com/channels/973242127205158952/978673047772991548/985266112289726495"></a>
+
+![javascript](https://user-images.githubusercontent.com/105119755/173595966-385af44e-c0d2-47c6-9e40-6de514a2fa12.svg)
