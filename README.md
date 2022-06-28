@@ -12,7 +12,9 @@ I have been learning to code for two years now while I have been participating i
 
 * 🧠  I'm learning React, MySQL and MongoDB. 
 
-*   🤝  I'm open to collaborating on Web Development, Web Design, Building Applications using Python. * ⚡  Ex-Civil Engineer
+*   🤝  I'm open to collaborating on Web Development, Web Design, Building Applications using Python. 
+
+* ⚡  Ex-Civil Engineer
 
 # Skills
 
