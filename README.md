@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @notyournormalcurry
-- 👀 I’m interested in coding and system administration.
-- 🌱 I’m currently learning Fullstack Web Development.
-- 💞️ I’m looking to collaborate on Web development and system administration.
+- 👋 Hi, I’m Anandu, a Full-Stack Web-dev with skillset spanning from Web development to Networking, System administration and UI/UX design.
+- 👀 I’m interested in Programming, Systems engineering and System administration.
+- 🌱 I’m currently learning Golang and Java programming languages.
+- 💞️ I’m looking to collaborate on Web development, DevOps and system administration.
 - 📫 How to reach me : ananduun@icloud.com
 
 <!---
