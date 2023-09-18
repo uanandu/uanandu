@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anandu, a Full-Stack Web-dev with skillset spanning from Web development to Networking, System administration and DevOps.
-- 👀 I’m interested in Programming, Systems engineering and System administration.
-- 🌱 I’m currently learning Golang and Java programming languages.
+- 👀 I’m interested in Programming, DevOps, Machine Learning and System administration.
+- 🌱 I’m currently learning Golang and C# programming languages.
 - 💞️ I’m looking to collaborate on Web development, DevOps and system administration.
 - 📫 How to reach me : ananduun@icloud.com
 
