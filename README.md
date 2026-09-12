@@ -17,7 +17,7 @@
 Background spans civil engineering → full-stack web development → DevOps and infrastructure, now focused on agentic AI engineering. I like building small, real tools rather than demos — things that solve one problem end-to-end and actually get used.
 
 - 🔭 **Currently building:** [`shadow-mode-proxy`](https://github.com/uanandu/shadow-mode-proxy) — a Claude Code plugin that lets you preview what an AI coding agent's risky actions would do before they run, and an OSS contribution scout that ranks GitHub issues by skill fit
-- 🌱 **Currently learning:** deepening agentic AI engineering (Claude Code, MCP, agent design patterns) and working toward HashiCorp Terraform Associate
+- 🌱 **Currently learning:** Rust, plus deepening agentic AI engineering (Claude Code, MCP, agent design patterns) and working toward HashiCorp Terraform Associate
 - 💞️ **Looking to collaborate on:** open-source infrastructure tooling, DevOps automation, and agentic AI / Claude Code projects
 - 📫 **Reach me:** ananduun@icloud.com
 
@@ -38,4 +38,5 @@ Background spans civil engineering → full-stack web development → DevOps and
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
 </p>
