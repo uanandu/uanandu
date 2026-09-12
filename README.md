@@ -39,16 +39,3 @@ Background spans civil engineering → full-stack web development → DevOps and
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white">
 </p>
-
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uanandu&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uanandu&layout=compact&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uanandu&hide_border=true" alt="GitHub Streak">
-</p>
