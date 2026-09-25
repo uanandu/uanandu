@@ -16,7 +16,7 @@
 
 Background spans civil engineering → full-stack web development → DevOps and infrastructure, now focused on agentic AI engineering. I like building small, real tools rather than demos — things that solve one problem end-to-end and actually get used.
 
-- 🔭 **Currently building:** [`shadow-mode-proxy`](https://github.com/uanandu/shadow-mode-proxy) — a Claude Code plugin that lets you preview what an AI coding agent's risky actions would do before they run, and an OSS contribution scout that ranks GitHub issues by skill fit
+- 🔭 **Currently building:** [`shadow-mode-proxy`](https://github.com/uanandu/backlog-match) — a Claude Code plugin that lets you preview what an AI coding agent's risky actions would do before they run, and an OSS contribution scout that ranks GitHub issues by skill fit
 - 🌱 **Currently learning:** Rust, plus deepening agentic AI engineering (Claude Code, MCP, agent design patterns) and working toward HashiCorp Terraform Associate
 - 💞️ **Looking to collaborate on:** open-source infrastructure tooling, DevOps automation, and agentic AI / Claude Code projects
 - 📫 **Reach me:** ananduun@icloud.com
