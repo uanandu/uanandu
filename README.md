@@ -19,7 +19,7 @@ Background spans civil engineering → full-stack web development → DevOps and
 - 🔭 **Currently building:** [`shadow-mode-proxy`](https://github.com/uanandu/backlog-match) — Claude Code skill that matches casual backlog mentions to Jira issues (or creates one), checks blockers, and hands off to OpenSpec's /opsx:propose.
 - 🌱 **Currently learning:** Rust, plus deepening agentic AI engineering (Claude Code, MCP, agent design patterns) and working toward HashiCorp Terraform Associate
 - 💞️ **Looking to collaborate on:** open-source infrastructure tooling, DevOps automation, and agentic AI / Claude Code projects
-- 📫 **Reach me:** ananduun@icloud.com
+- 📫 **Reach me:** anandu_dev@icloud.com
 
 ---
 
