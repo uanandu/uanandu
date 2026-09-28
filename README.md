@@ -12,14 +12,28 @@
 
 ---
 
-### About
+## About
 
-Background spans civil engineering → full-stack web development → DevOps and infrastructure, now focused on agentic AI engineering. I like building small, real tools rather than demos — things that solve one problem end-to-end and actually get used.
+Civil engineering taught me that things get built once and stand for decades.
+Software taught me the opposite. Somewhere between the two I found
+infrastructure, which has to do both.
 
-- 🔭 **Currently building:** [`backlog-match`](https://github.com/uanandu/backlog-match) — Claude Code skill that matches casual backlog mentions to Jira issues (or creates one), checks blockers, and hands off to OpenSpec's /opsx:propose.
-- 🌱 **Currently learning:** Rust, plus deepening agentic AI engineering (Claude Code, MCP, agent design patterns) and working toward HashiCorp Terraform Associate
-- 💞️ **Looking to collaborate on:** open-source infrastructure tooling, DevOps automation, and agentic AI / Claude Code projects
-- 📫 **Reach me:** anandu_dev@icloud.com
+The path ran structures → full-stack → DevOps → agentic AI engineering. What
+carried through every step: build small, real tools instead of demos. One
+problem, solved end to end, actually used.
+
+**🔭 Building now** — [`backlog-match`](#): a Claude Code skill that catches
+backlog mentions in passing conversation, matches them to Jira issues or files
+new ones, checks what's blocking, and hands off to OpenSpec's `/opsx:propose`.
+The gap between "we should fix that" and a tracked, specced ticket, closed.
+
+**🌱 Learning** — Rust. Agent design patterns, MCP, the shape of tooling that
+makes agents trustworthy. Terraform Associate on the near horizon.
+
+**💞️ Open to** — open-source infrastructure tooling, DevOps automation,
+anything agentic.
+
+**📫 Reach me** — [anandu_dev@icloud.com](mailto:anandu_dev@icloud.com)
 
 ---
 
