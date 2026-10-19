@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://anandu.ca"><img src="https://img.shields.io/badge/portfolio-anandu.ca-1F3A5F?style=flat-square" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/uanandu"><img src="https://img.shields.io/badge/LinkedIn-uanandu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:anand_dev@icloud.com"><img src="https://img.shields.io/badge/email-ananduun%40icloud.com-grey?style=flat-square&logo=icloud&logoColor=white" alt="Email"></a>
+  <a href="mailto:anand_dev@icloud.com"><img src="https://img.shields.io/badge/email-anand_dev%40icloud.com-grey?style=flat-square&logo=icloud&logoColor=white" alt="Email"></a>
 </p>
 
 ---
